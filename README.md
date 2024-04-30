@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esdras04
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python and JavaScipt
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on personal projects
 
 
